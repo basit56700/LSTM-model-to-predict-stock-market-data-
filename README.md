@@ -1,2 +1,2 @@
-# LSTM model to predict stock market data 
+# LSTM model to Predict Stock Market share prices  
  
